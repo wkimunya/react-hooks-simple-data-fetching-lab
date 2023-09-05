@@ -15,7 +15,7 @@ function App() {
   }, []);
   return (
     <div>
-        <h1> Random Dod Image</h1>
+        <h1> Random dog Image</h1>
         {loading ? (
             <p>Loading ...</p>
         ) : (
